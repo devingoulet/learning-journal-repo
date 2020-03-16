@@ -3,6 +3,7 @@ Learning Journal
 _Personal Summary_ 
 
 Hey! My name is Devin, I'm 23 years old and a Seattle native. I'm super psyched to learn more about code and take this as far as I can. That being said, I am just now starting my coding journey. It is currently March of 2020 and I have a very long way to go. Stick around for the ride and let's see where this goes.
+
 **Growth Mindset** 
 
 To me a growth mindset is your ability to realize that nothing wrothwhile will come easy and understanding that to overcome your struggles you must become _mentally resilient_
