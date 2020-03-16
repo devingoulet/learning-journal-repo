@@ -1,6 +1,9 @@
 Learning Journal 
 ## Welcome to GitHub Pages
-_Personal Summary_ Hey! My name is Devin, I'm 23 years old and a Seattle native. I'm super psyched to learn more about code and take this as far as I can. That being said, I am just now starting my coding journey. It is currently March of 2020 and I have a very long way to go. Stick around for the ride and let's see where this goes.
+_Personal Summary_ 
+Hey! My name is Devin, I'm 23 years old and a Seattle native. I'm super psyched to learn more about code and take this as far as I can. That being said, I am just now starting my coding journey. It is currently March of 2020 and I have a very long way to go. Stick around for the ride and let's see where this goes.
+**Growth Mindset** 
+To me a growth mindset is your ability to realize that nothing wrothwhile will come easy and understanding that to overcome your struggles you must become _mentally resilient_
 You can use the [editor on GitHub](https://github.com/devingoulet/learning-journal-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
