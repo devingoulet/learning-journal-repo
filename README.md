@@ -1,6 +1,7 @@
 Learning Journal 
 ## Welcome to GitHub Pages
 
+![San Junipero Image](https://i.redd.it/avhv5tk0a46y.jpg)
 
 _Personal Summary_ 
 
