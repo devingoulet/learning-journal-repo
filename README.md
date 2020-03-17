@@ -1,6 +1,7 @@
 Learning Journal 
 ## Welcome to GitHub Pages
 
+
 _Personal Summary_ 
 
 Hey! My name is Devin, I'm 23 years old and a Seattle native. I'm super psyched to learn more about code and take this as far as I can. That being said, I am just now starting my coding journey. It is currently March of 2020 and I have a very long way to go. Stick around for the ride and let's see where this goes.
@@ -16,7 +17,7 @@ To me a growth mindset is your ability to realize that nothing wrothwhile will c
 3. Keeping my time structured and manageable to maximize my learning ability
 
 
-You can use the [editor on GitHub](https://github.com/devingoulet/learning-journal-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+`You can use the [editor on GitHub](https://github.com/devingoulet/learning-journal-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -25,24 +26,24 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+`Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
 
 - Bulleted
-- List
+`- List
 
 1. Numbered
-2. List
+`2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+`For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
