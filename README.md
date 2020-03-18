@@ -9,5 +9,8 @@ Hey! My name is Devin, I'm 23 years old and a Seattle native. I'm super psyched 
 
 _Growth Mindset_
 
-To me a growth mindset is your ability to realize that nothing worthwhile will come easy and understanding that to overcome your struggles you must become **mentally resilient**
-[**Three Reminders to Keep Myself in a Growth Mindset**](Growth-Mindset.md)
+To me a growth mindset is your ability to realize that nothing worthwhile will come easy and understanding that to overcome your struggles you must be **mentally resilient**
+
+[**Three Reminders to Keep Myself in a Growth Mindset**]
+
+(Growth-Mindset.md)
