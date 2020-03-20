@@ -17,3 +17,8 @@ To me a growth mindset is your ability to realize that nothing worthwhile will c
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+To me a growth mindset is your ability to realize that nothing worthwhile will come easy and understanding that to overcome your struggles you must be **mentally resilient**
+
+[**Three Reminders to Keep Myself in a Growth Mindset**]
+
+(Growth-Mindset.md)
